@@ -19,7 +19,7 @@ It wasn't a good choice to learn PHP as first language, but it helped me to unde
 It seems, that I'm in love with typescript :). 
 This only from my public repos, but I usually code in Java and python.
 
-### My favorite Stack 
+## My favorite Stack 
 #### ***MENT*** : MongoDB Express Node.js Typescript 
 I try to keep it simple as possible to avoid scaling issues.
 
