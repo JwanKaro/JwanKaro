@@ -17,7 +17,7 @@ It wasn't a good choice to learn PHP as first language, but it helped me to unde
 
 <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="100px">
 It seems, that I'm in love with typescript :). 
-This only from my public repos, but I usually code in Java and python.
+This only from my public repos, but I usually code in JavaScript and python.
 
 ## My favorite Stack 
 #### ***MENT*** : MongoDB Express Node.js Typescript 
